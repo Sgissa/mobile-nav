@@ -1,0 +1,29 @@
+.home-content{
+    
+    .home-holder{
+        // margin-left: 100px;
+        padding-top: 50px;
+        // background-color: grey;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        .wel-text {
+        
+        }
+        .wel-textbox
+        {
+            width: 500px;
+        }
+    }
+
+    .hero-container{
+        height: 720px;
+        width: 1280px;
+        // background-color: aqua;
+        margin: 0 auto;
+        img{
+            width: 100%;
+        }
+    }
+}

@@ -1,0 +1,13 @@
+.navi {
+  position: fixed;
+  left: 10px;
+}
+
+.bars .bar {
+  display: block;
+  width: 25px;
+  margin: 5px 0;
+  background-color: black;
+  height: 3px;
+  border-radius: 5px;
+}

@@ -1,0 +1,13 @@
+.browse {
+  margin-top: 50px;
+  margin: 0 auto;
+}
+.browse .title-holder {
+  background-color: aqua;
+  padding-top: 50px;
+}
+.browse .gal-container {
+  background-color: aqua;
+  width: 100vw;
+  height: 100;
+}
